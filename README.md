@@ -5,4 +5,6 @@
 - [Elastic Search Bulk Indexing Example](https://javadeveloperzone.com/elastic-search/elastic-search-csv-bulk-import-example/)
 - [Elastic Search Index Document Example](https://javadeveloperzone.com/elastic-search/elastic-search-index-document-example/)
 - [Elastic Search SpringBoot Integration Example](https://javadeveloperzone.com/spring-boot/spring-boot-elastic-search-example/)
-
+- [Elastic Search Index Documents From Database](https://javadeveloperzone.com/elastic-search/elastic-search-index-document-from-database/)
+- [Configure Stopwords in Elastic Search](https://javadeveloperzone.com/elastic-search/configure-stopwords-in-elastic-search/)
+- [Configure Stemming in Elastic Search](https://javadeveloperzone.com/elastic-search/configure-stemming-elastic-search/)
